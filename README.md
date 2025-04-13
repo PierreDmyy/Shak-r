@@ -9,10 +9,9 @@ Conçue avec **React Native + Expo**, elle t’accompagne dans toutes tes soiré
 
 - 🔍 Rechercher des cocktails par **nom**, **ingrédient**, ou **type** (alcoolisé / non)
 - 📄 Fiche cocktail : **ingrédients, verrerie, instructions, photo**
-- ⭐ Ajouter des cocktails aux **favoris**
 - 🧪 Générer des recettes à partir des **ingrédients que tu as chez toi**
 - 📸 Ajouter tes propres recettes avec **photo**
-- 📂 Historique enregistré localement (**AsyncStorage**)
+- 📂 Les cocktails enregistré localement (**AsyncStorage**)
 - 🎨 Interface **moderne & animée**
 - 📱 Compatible iOS / Android / Web (via Expo)
 - 🌍 Langue : **Français uniquement**
